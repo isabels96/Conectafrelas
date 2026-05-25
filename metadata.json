@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma de Freelancers",
+  "description": "Landing page de conversão de alta performance para plataforma de profissionais autônomos e freelancers com taxa fixa de 10% e calculadora de lucros interativa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
